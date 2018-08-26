@@ -1,0 +1,17 @@
+{
+  "name": "codeaccounts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "demux": "^1.0.5",
+    "demux-eos": "^1.0.1",
+    "dotenv": "^6.0.0",
+    "eosjs": "^16.0.6"
+  }
+}
